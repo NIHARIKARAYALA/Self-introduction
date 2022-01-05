@@ -2,7 +2,7 @@
 Introduction
 My Name is Niharika i am from hyderabad.
 I have total 1 years exp in IT industry.I started my career with linux and window later moved to azure and azure devops domain.
-Presently working as devops enigneer in TCS company from last 4 years.
+Presently working as devops enigneer in TCS company from last 1 year.
 
 coming to my Roles and Responsibilites :
 ----------------------------------------
@@ -14,4 +14,4 @@ Managing Terraform scripts using GIT repos for various projects.
 Creating and managing docker images.
 Monitoring the azure resouces using azure monitoring.
 Managing VMs backup and restore on ad hoc basis.
-Managing Linux and Windows VMs for OS related issues(CPU, Memory and Disk space issues)
+Managing Linux and Windows VMs for OS related issues(CPU, Memory and Disk space issues
